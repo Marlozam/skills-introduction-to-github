@@ -1,1 +1,1 @@
-making a read file 
+Welcome to my GitHub profile!
